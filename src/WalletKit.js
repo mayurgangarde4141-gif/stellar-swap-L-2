@@ -1,4 +1,4 @@
-// src/walletKit.js
+
 
 import albedo from "@albedo-link/intent";
 
